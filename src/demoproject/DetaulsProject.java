@@ -7,6 +7,9 @@ public class DetaulsProject {
 		
 		System.out.println("Master location");
 		
+		System.out.println("master moved tp pardhu-branch");
+		System.out.println("now ready to check pardhu-branch");
+		
 		
 
 	}
